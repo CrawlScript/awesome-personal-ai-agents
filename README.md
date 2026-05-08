@@ -15,3 +15,11 @@
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞** The most comprehensive platform for personal AI intelligence.
   - **Supported Connectors:** Telegram, WhatsApp, Feishu (飞书), etc.
+
+---
+
+## Go
+
+- [lucinate-ai/lucinate](https://github.com/lucinate-ai/lucinate) - **Terminal-native TUI chat client for AI agents.** Connects to OpenClaw gateways, Hermes agent profiles, and any OpenAI-compatible endpoint (Ollama, vLLM, LM Studio, OpenAI).
+  - **Features:** Streaming responses, markdown rendering, tool call cards, local skills, cron management, session browsing, thinking control, multi-agent, shell commands
+  - **Install:** `brew install lucinate-ai/tap/lucinate`, cross-platform binaries at lucinate.ai
