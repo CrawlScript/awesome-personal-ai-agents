@@ -15,3 +15,6 @@
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞** The most comprehensive platform for personal AI intelligence.
   - **Supported Connectors:** Telegram, WhatsApp, Feishu (飞书), etc.
+
+- [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - **Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI.** Agents collaborate and build their own tools, mini-apps and plugins; single container (Bun + SQLite).
+  - **Supported Connectors:** Telegram, Slack, Discord, and Matrix.
