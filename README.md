@@ -15,3 +15,4 @@
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - **Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞** The most comprehensive platform for personal AI intelligence.
   - **Supported Connectors:** Telegram, WhatsApp, Feishu (飞书), etc.
+- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) - **Open-source, local-first desktop AI workforce.** A Commander coordinates specialist agents through one chat on macOS, Windows, and Linux.
